@@ -1,6 +1,4 @@
-<!--=====================================
-REDES SOCIALES PARA MÓVIL
-======================================-->
+
 
 <div class="d-block d-md-none redes redesMovil p-0 bg-white w-100 pt-2">
 				

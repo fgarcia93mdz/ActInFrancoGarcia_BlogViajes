@@ -1,6 +1,4 @@
-<!--=====================================
-BUSCADOR PARA MÓVIL
-======================================-->
+
 
 <div style="margin-top:90px" class="container-fluid d-block pb-3 d-md-none bg-white">
 	

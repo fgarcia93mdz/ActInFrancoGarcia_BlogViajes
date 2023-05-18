@@ -19,10 +19,6 @@ $anuncios = ControladorBlog::ctrTraerAnuncios("inicio");
 ?>
 
 
-<!--=====================================
-CONTENIDO INICIO
-======================================-->
-
 <div class="container-fluid bg-white contenidoInicio pb-4">
 	
 	<div class="container">

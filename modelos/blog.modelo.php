@@ -95,6 +95,7 @@ Class ModeloBlog{
 
 	static public function mdlMostrarTotalArticulos($tabla, $item, $valor){
 
+		
 		if($item == null && $valor == null){
 
 			$stmt = Conexion::conectar()->prepare("SELECT * FROM $tabla");

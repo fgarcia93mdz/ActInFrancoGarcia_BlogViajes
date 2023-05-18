@@ -6,9 +6,6 @@ $banner = ControladorBlog::ctrTraerBanner("inicio");
 
 ?>
 
-<!--=====================================
-BANNER
-======================================-->
 
 <div class="bannerEstatico d-none d-md-block"></div>
 

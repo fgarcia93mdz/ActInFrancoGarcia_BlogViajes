@@ -69,10 +69,6 @@ $anuncios = ControladorBlog::ctrTraerAnuncios("categorias");
  ?>
 
 
-<!--=====================================
-CONTENIDO CATEGORIA
-======================================-->
-
 <div class="container-fluid bg-white contenidoInicio py-2 py-md-4">
 	
 	<div class="container">

@@ -1,6 +1,4 @@
-<!--=====================================
-GRID DE CATEGORÍAS
-======================================-->
+
 
 <div class="container-fluid py-2 py-md-5 bg-white grid">
 

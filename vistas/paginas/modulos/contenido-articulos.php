@@ -10,9 +10,7 @@ if(isset($rutas[1])){
 
 }
 
-/*=============================================
-Función para limitar foreach
-=============================================*/
+
 function limitarForeach($array, $limite){
 
 	foreach ($array as $key => $value) {
@@ -28,9 +26,6 @@ $anuncios = ControladorBlog::ctrTraerAnuncios("articulos");
 
 ?>
 
-<!--=====================================
-CONTENIDO ARTÍCULO
-======================================-->
 
 <div class="container-fluid bg-white contenidoInicio py-2 py-md-4">
 	
