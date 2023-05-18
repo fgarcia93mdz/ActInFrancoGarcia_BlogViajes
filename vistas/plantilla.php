@@ -334,7 +334,7 @@ $totalPaginas = ceil(count($totalArticulos) / 5);
 	=============================================*/
 
 	include "paginas/modulos/footer.php";
-
+	include "paginas/modulos/plantillaUsuarios.php";
 
 	?>
 
